@@ -1,8 +1,14 @@
 /*
  * 
+ * Grupo: Lab_A06
+ * Miembro1: Andrés Alejandro Rojas Cardona
+ * Miembro2: Jason Armijos Avendaño
+ * Miembro3: Alberto José Ramos Fernandez
+ * Miembro4: Carlos Ramos Cabañas
  * 
- * 
- * 
+ * Fecha: 17/10/2024
+ * Descripción: El programa lee una serie de números que el usuario ingresa en formato de segundos y luego los
+ * 				convierte en días, horas, minutos y segundos respectivamente
  * 
  */
 
