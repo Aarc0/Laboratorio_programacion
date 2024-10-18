@@ -8,7 +8,8 @@
  * 
  * Fecha: 17/10/2024
  * Descripción: El programa lee una serie de números que el usuario ingresa en formato de segundos y luego los
- * 				convierte en días, horas, minutos y segundos respectivamente
+ * convierte en días, horas, minutos y segundos respectivamente.
+ * Versión: 1.0
  * 
  */
 
