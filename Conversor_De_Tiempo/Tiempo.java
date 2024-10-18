@@ -25,7 +25,7 @@ public class Tiempo
 		Scanner sec = null;
 		try 
 		{
-			System.out.print("Por favor ingrese un número de segundos:");
+			System.out.printf("Por favor ingrese un número de segundos:");
 			sec = new Scanner(System.in);
 			int segundos = sec.nextInt();
 			//En este caso hacemos que a "sec" se le pueda ingresar algo y que se ingrese un numero entero en este
