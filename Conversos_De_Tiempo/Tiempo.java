@@ -16,7 +16,7 @@
 
 import java.util.Scanner;
 
-public class Tiempo1 
+public class Tiempo 
 {
 	public static void main(String[] args) 
 	{
