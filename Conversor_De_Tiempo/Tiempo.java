@@ -1,5 +1,5 @@
 /*
- * prueba de comentario
+ * prueba de comentario 1
  * Grupo: Lab_A06
  * Miembro1: Andrés Alejandro Rojas Cardona
  * Miembro2: Jason Armijos Avendaño
