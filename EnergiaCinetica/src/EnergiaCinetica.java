@@ -6,8 +6,9 @@
  * Miembro4: Carlos Ramos Cabañas
  * 
  * Fecha: 18/10/2024
- * Descripción: El programa consiste en que el usuario introduzca una cantidad de masa y de velocidad las cuales se usarán
- * 				para calcular la energía cinética de un objeto que tenga dicha masa y vaya a dicha velocidad mediante un cálculo. * 
+ * Descripción: El programa consiste en que el usuario introduzca una cantidad de masa y de velocidad las cuales se usarán 
+ * para calcular la energía cinética de un objeto que tenga dicha masa y vaya a dicha velocidad mediante un cálculo.  
+ * Versión: 1.0
  * 
  */
 
